@@ -5,6 +5,6 @@ resolvers += Resolver.url("HMRC-open-artefacts-ivy2", url("https://open.artefact
 
 addSbtPlugin("uk.gov.hmrc" % "sbt-auto-build" % "3.20.0")
 
-addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.6.3")
+addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.6.4")
 
 addSbtPlugin("org.foundweekends.giter8" %% "sbt-giter8" % "0.16.2")
