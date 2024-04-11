@@ -20,10 +20,6 @@ Start `<SERVICE_MANAGER_PROFILE>` services as follows:
 sm2 --start <SERVICE_MANAGER_PROFILE>
 ```
 
-### Docker Selenium Grid
-
-Confirm that [docker-selenium-grid](https://github.com/hmrc/docker-selenium-grid) is up-to-date and follow the provided [instructions](https://github.com/hmrc/docker-selenium-grid/blob/main/README.md).
-
 ## Tests
 
 Run tests as follows:
